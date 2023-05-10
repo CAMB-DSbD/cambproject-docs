@@ -1,4 +1,4 @@
-# capabilities-docs
-Capabilities and Morello Board docs
+# cambproject-docs
+Document produced by camb project
 
-This repo gathers links to documents on capabilities and Morello Boards that we consider relevant for research in this dicrection.
+This repo contains some of the documents produced by the camb project.
